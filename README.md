@@ -1,4 +1,4 @@
-# Precipitation_Efficiency
+# Lutsko and Cronin precipitation efficiency files
 
 Respository for code used in analysis of Lutsko and Cronin (2018) JAMES article on precipitation efficiency.
 
