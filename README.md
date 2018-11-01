@@ -5,6 +5,7 @@ Respository for code used in analysis of Lutsko and Cronin (2018) JAMES article 
 Contains datafiles from the SAM simulations, 2 sample namelist files and 7 python notebooks used in the analysis.
 
 The notebooks include:
+
   -precip_efficiency calculates the precip efficiency, sedimentation efficiency and re-evaporation efficiency for the small domain simulations and mock-Walker simulations. It plots Figures 1, 9 and 10 of the manuscript.
 
   -analyze_phases calculates the water paths shown in Figure 2, the profiles shown in Figure 3 and the cloud densities shown in Figure 6.
